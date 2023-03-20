@@ -1,12 +1,12 @@
 # project custom
-build
-dist
-packages/*/lib/
-packages/*/es/
-packages/*/dist/
-packages/*/output/
-packages/demo/
-packages/*/node_modules/
+# build
+# dist
+# packages/*/lib/
+# packages/*/es/
+# packages/*/dist/
+# packages/*/output/
+# packages/demo/
+# packages/*/node_modules/
 packages/*/package-lock.json
 packages/*/yarn.lock
 package-lock.json
